@@ -4,9 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer student
 ---------------------
 
-I've been learning to code for almost 6 months in Trybe School, after switching careers. I already have a solid foundation of Front-End development and I'm beginner in Back-End.
+Biologist switching careers to Information Technology area, focusing in web development full stack.
 
-* 🌍  I'm based in Fortaleza/CE - Brasil
+Skills in JavaScript ES6, React.js, React Redux, HTML5, CSS3, Bootstrap, Git & GitHub, Jest, RTL, Docker, MySQL, Node.js and Linux.
+
+* 🌍  Based in Fortaleza/CE - Brazil
 * ✉️  You can contact me at [mathdiogenes@gmail.com](mailto:mathdiogenes@gmail.com)
 
 ### Skills
