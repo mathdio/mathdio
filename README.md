@@ -6,7 +6,7 @@ Full Stack Web Developer
 
 28 years old biologist switching careers to Information Technology area, focusing in Full Stack Web Development.
 
-Skills in JavaScript ES6, React.js, React Redux, HTML5, CSS3, Bootstrap, Git & GitHub, Jest, RTL, Docker, MySQL, Node.js and Linux.
+Here you can find projects built individually or in group, focusing in Front-End, Back-End or Full Stack.
 
 * 🌍  Based in Fortaleza/CE - Brazil
 * ✉️  You can contact me at [mathdiogenes@gmail.com](mailto:mathdiogenes@gmail.com)
@@ -26,6 +26,8 @@ Skills in JavaScript ES6, React.js, React Redux, HTML5, CSS3, Bootstrap, Git & G
 
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" /></a>
+<a href="https://sequelize.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
 
 ### DevOps
@@ -43,11 +45,11 @@ Skills in JavaScript ES6, React.js, React Redux, HTML5, CSS3, Bootstrap, Git & G
 
 ### Socials
 
-<!-- <a href="" target="_blank" rel="noreferrer"><img src="" alt="" /></a> -->
 <a href="https://www.linkedin.com/in/matheus-diogenes-almeida" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://mathdio.vercel.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/my_portfolio-3fc337?style=for-the-badge" alt="Portfolio" /></a>
 <a href="mailto:mathdiogenes@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail" /></a>
 
+<!-- <a href="" target="_blank" rel="noreferrer"><img src="" alt="" /></a> -->
 
 ### Badges
 
