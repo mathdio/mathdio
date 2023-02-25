@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matheus Diógenes Almeida
 ================================================================================================================================================
 
-Web Developer student
+Full Stack Web Developer
 ---------------------
 
-Biologist switching careers to Information Technology area, focusing in web development full stack.
+28 years old biologist switching careers to Information Technology area, focusing in Full Stack Web Development.
 
 Skills in JavaScript ES6, React.js, React Redux, HTML5, CSS3, Bootstrap, Git & GitHub, Jest, RTL, Docker, MySQL, Node.js and Linux.
 
@@ -35,9 +35,19 @@ Skills in JavaScript ES6, React.js, React Redux, HTML5, CSS3, Bootstrap, Git & G
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
 <a href="https://ubuntu.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
 
+### Testing
+
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /></a>
+<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="React Testing Library" /></a>
+<a href="https://mochajs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha" /></a>
+
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/mathdio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/matheus-diogenes-almeida" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<!-- <a href="" target="_blank" rel="noreferrer"><img src="" alt="" /></a> -->
+<a href="https://www.linkedin.com/in/matheus-diogenes-almeida" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://mathdio.vercel.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/my_portfolio-3fc337?style=for-the-badge" alt="Portfolio" /></a>
+<a href="mailto:mathdiogenes@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail" /></a>
+
 
 ### Badges
 
