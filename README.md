@@ -59,12 +59,26 @@ Here you can find projects built individually or in group, focusing in Front-End
 </details>
 
 <details>
-  <summary><h2> 🗂 Projects </summary></h2>
-  <details>
-    <summary><h3> 📂 Front-End Projects</summary></h3>
-  </details>
-  
-  ### 🚧 <b>under construction</b> 🚧
+<summary><h2> 🗂 Projects </summary></h2>
+
+### 🚧 <b>under construction</b> 🚧
+<details>
+<summary><h3> 📂 Front-End </summary></h3>
+
+#### 🔸 [Recipes App](https://github.com/mathdio/recipes-app-project)
+#### 🔸 [e-Wallet](https://github.com/mathdio/e-wallet-project)
+#### 🔸 [Music Streaming Service](https://github.com/mathdio/music-streaming-service-project)
+#### 🔸 [To Do List](https://github.com/mathdio/to-do-list)
+</details>
+<details>
+<summary><h3> 📂 Back-End </summary></h3>
+
+#### 🔸 [Football Club Back-end](https://github.com/mathdio/football-club-backend)
+</details>
+<details>
+<summary><h3> 📂 Computer Science </summary></h3>
+
+</details>
 </details>
 
 ### 👥 Socials
