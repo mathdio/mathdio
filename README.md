@@ -59,12 +59,15 @@ Here you can find projects built individually or in group, focusing in Front-End
 </details>
 
 <details>
-  <summary><h2> 📝 Projects </summary></h2>
+  <summary><h2> 🗂 Projects </summary></h2>
+  <details>
+    <summary><h3> 📂 Front-End Projects</summary></h3>
+  </details>
   
   ### 🚧 <b>under construction</b> 🚧
 </details>
 
-### Socials
+### 👥 Socials
 
 <a href="https://www.linkedin.com/in/matheus-diogenes-almeida" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://mathdio.vercel.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/my_portfolio-3fc337?style=for-the-badge" alt="Portfolio" /></a>
