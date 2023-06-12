@@ -1,15 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matheus Diógenes Almeida
-================================================================================================================================================
+## 👤 About me
 
-Full Stack Web Developer
----------------------
-
-28 years old biologist switching careers to Information Technology area, focusing in Full Stack Web Development.
-
-Here you can find projects built individually or in group, focusing in Front-End, Back-End or Full Stack.
-
-* 🌍  Based in Fortaleza/CE - Brazil
-* ✉️  You can contact me at [mathdiogenes@gmail.com](mailto:mathdiogenes@gmail.com)
+👨🏻‍💻 Full Stack Web Developer in career transition
+🎓 Web Development at [Trybe](https://www.betrybe.com) and bachelor's in Biology at Universidade Federal do Ceará.
+🌍 Based in Fortaleza/CE - Brazil
+✉️ You can contact me at [mathdiogenes@gmail.com](mailto:mathdiogenes@gmail.com)
 
 <details>
   <summary><h2> 💻 Skills </summary></h2>
