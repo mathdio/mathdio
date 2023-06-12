@@ -1,8 +1,11 @@
 ## 👤 About me
 
 👨🏻‍💻 Full Stack Web Developer in career transition
+
 🎓 Web Development at [Trybe](https://www.betrybe.com) and bachelor's in Biology at Universidade Federal do Ceará.
+
 🌍 Based in Fortaleza/CE - Brazil
+
 ✉️ You can contact me at [mathdiogenes@gmail.com](mailto:mathdiogenes@gmail.com)
 
 <details>
