@@ -88,6 +88,9 @@
 <details>
 <summary><h3> 📂 Computer Science </summary></h3>
 
+#### 🔸 [Job Insights](https://github.com/mathdio/job-insights-project)
+#### 🔸 [Inventory Report](https://github.com/mathdio/inventory-report-project)
+
 </details>
 </details>
 
