@@ -61,8 +61,17 @@
 <details>
 <summary><h2> 🗂 Projects </summary></h2>
 
-### 🚧 <b>under construction</b> 🚧
+> ### 🚧 <b>under construction</b> 🚧
+>
+> <b>Some projects are having their README written and more projects are going to be available soon.</b>
+
 <details>
+<summary><h3> 📂 Full-Stack </summary></h3>
+
+#### 🔸 [Delivery App](https://github.com/mathdio/delivery-app-project)
+</details>
+<details>
+  
 <summary><h3> 📂 Front-End </summary></h3>
 
 #### 🔸 [Recipes App](https://github.com/mathdio/recipes-app-project)
