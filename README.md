@@ -93,6 +93,7 @@
 #### 🔸 [Data Scraping](https://github.com/mathdio/data-scraping-project)
 #### 🔸 [Algorithms](https://github.com/mathdio/algorithms-project)
 #### 🔸 [Document Indexing](https://github.com/mathdio/document-indexing-algorithm-project)
+#### 🔸 [Restaurant Orders](https://github.com/mathdio/restaurant-orders-project)
 
 </details>
 </details>
