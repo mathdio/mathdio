@@ -91,6 +91,7 @@
 #### 🔸 [Job Insights](https://github.com/mathdio/job-insights-project)
 #### 🔸 [Inventory Report](https://github.com/mathdio/inventory-report-project)
 #### 🔸 [Data Scraping](https://github.com/mathdio/data-scraping-project)
+#### 🔸 [Algorithms](https://github.com/mathdio/algorithms-project)
 
 </details>
 </details>
