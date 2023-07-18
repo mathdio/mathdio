@@ -94,6 +94,7 @@
 #### 🔸 [Algorithms](https://github.com/mathdio/algorithms-project)
 #### 🔸 [Document Indexing Algorithm](https://github.com/mathdio/document-indexing-algorithm-project)
 #### 🔸 [Restaurant Orders](https://github.com/mathdio/restaurant-orders-project)
+#### 🔸  [Cyclotron Algorithm](https://github.com/mathdio/cyclotron-algorithm-project)
 
 </details>
 </details>
