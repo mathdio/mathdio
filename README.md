@@ -86,6 +86,8 @@
 #### 🔸 [Store Manager API](https://github.com/mathdio/store-manager-api-project)
 #### 🔸 [Blogs API](https://github.com/mathdio/blogs-api-project)
 #### 🔸 [Medieval Store API](https://github.com/mathdio/medieval-store-api-project)
+#### 🔸 [RPG Project](https://github.com/mathdio/rpg-project)
+#### 🔸 [Database Commerce Query Project](https://github.com/mathdio/database-commerce-project)
 #### 🔸 [Car Shop API](https://github.com/mathdio/car-shop-api-project)
 #### 🔸 [Football Club Back-end](https://github.com/mathdio/football-club-backend)
 </details>
