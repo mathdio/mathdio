@@ -82,6 +82,10 @@
 <details>
 <summary><h3> 📂 Back-End </summary></h3>
 
+#### 🔸 [Talker Manager API](https://github.com/mathdio/talker-manager-api-project)
+#### 🔸 [Store Manager API](https://github.com/mathdio/store-manager-api-project)
+#### 🔸 [Blogs API](https://github.com/mathdio/blogs-api-project)
+#### 🔸 [Medieval Store API](https://github.com/mathdio/medieval-store-api-project)
 #### 🔸 [Car Shop API](https://github.com/mathdio/car-shop-api-project)
 #### 🔸 [Football Club Back-end](https://github.com/mathdio/football-club-backend)
 </details>
