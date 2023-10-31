@@ -12,6 +12,7 @@
   <summary><h2> 💻 Skills </summary></h2>
 
   ### 🛠️ Programming Languages
+  <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a>
   <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
@@ -70,8 +71,8 @@
 
 #### 🔸 [Delivery App](https://github.com/mathdio/delivery-app-project)
 </details>
+
 <details>
-  
 <summary><h3> 📂 Front-End </summary></h3>
 
 #### 🔸 [Recipes App](https://github.com/mathdio/recipes-app-project)
@@ -79,6 +80,7 @@
 #### 🔸 [Music Streaming Service](https://github.com/mathdio/music-streaming-service-project)
 #### 🔸 [To Do List](https://github.com/mathdio/to-do-list)
 </details>
+
 <details>
 <summary><h3> 📂 Back-End </summary></h3>
 
@@ -91,6 +93,7 @@
 #### 🔸 [Car Shop API](https://github.com/mathdio/car-shop-api-project)
 #### 🔸 [Football Club Back-end](https://github.com/mathdio/football-club-backend)
 </details>
+
 <details>
 <summary><h3> 📂 Computer Science </summary></h3>
 
@@ -102,6 +105,12 @@
 #### 🔸 [Restaurant Orders](https://github.com/mathdio/restaurant-orders-project)
 #### 🔸  [Cyclotron Algorithm](https://github.com/mathdio/cyclotron-algorithm-project)
 
+</details>
+
+<details>
+<summary><h3> 📂 Java </summary></h3>
+
+#### 🔸 [Weighted Average Calculator](https://github.com/mathdio/weighted-average-project)
 </details>
 </details>
 
