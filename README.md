@@ -2,7 +2,7 @@
 
 👨🏻‍💻 Full Stack Web Developer in career transition
 
-🎓 Web Development at [Trybe](https://www.betrybe.com) and bachelor's in Biology at Universidade Federal do Ceará.
+🎓 Undergraduate in System Analysis and Development in progress, full stack web developer by [Trybe](https://www.betrybe.com) and currently studying Java.
 
 🌍 Based in Fortaleza/CE - Brazil
 
