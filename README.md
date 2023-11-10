@@ -2,7 +2,9 @@
 
 👨🏻‍💻 Full Stack Web Developer in career transition
 
-🎓 Undergraduate in System Analysis and Development in progress, full stack web developer by [Trybe](https://www.betrybe.com) and currently studying Java.
+🎓 Undergraduate in System Analysis and Development, Full-Stack Developer by [Trybe](https://www.betrybe.com).
+
+📚 Currently studying Java and Spring framework.
 
 🌍 Based in Fortaleza/CE - Brazil
 
