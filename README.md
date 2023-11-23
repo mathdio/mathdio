@@ -113,6 +113,9 @@
 <summary><h3> 📂 Java </summary></h3>
 
 #### 🔸 [Weighted Average System for Grades](https://github.com/mathdio/weighted-average-project)
+#### 🔸 [Voting System](https://github.com/mathdio/java-voting-system-project)
+#### 🔸 [Museum Finder](https://github.com/mathdio/museum-finder-project)
+
 </details>
 </details>
 
