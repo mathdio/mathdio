@@ -62,12 +62,9 @@
   <a href="https://sinonjs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon" alt="Sinon.js" /></a>
 </details>
 
-<details>
-<summary><h2> 🗂 Projects </summary></h2>
+## 🗂 Projects 
 
-> ### 🚧 <b>under construction</b> 🚧
->
-> <b>Some projects are having their README written and more projects are going to be available soon.</b>
+> ### 🚧 <b>Some projects are having their README written.</b> 🚧
 
 <details>
 <summary><h3> 📂 Full-Stack </summary></h3>
@@ -117,7 +114,6 @@
 #### 🔸 [Voting System](https://github.com/mathdio/java-voting-system-project)
 #### 🔸 [Museum Finder API](https://github.com/mathdio/museum-finder-api-project)
 
-</details>
 </details>
 
 ### 👥 Socials
