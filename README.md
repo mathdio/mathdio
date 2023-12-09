@@ -108,8 +108,9 @@
 </details>
 
 <details>
-<summary><h3> 📂 Java </summary></h3>
+<summary><h3> 📂 Java (and Spring) </summary></h3>
 
+#### 🔸 [Farms Manager API](https://github.com/mathdio/farms-manager-api-project)
 #### 🔸 [Museum Finder API](https://github.com/mathdio/museum-finder-api-project)
 #### 🔸 [Voting System](https://github.com/mathdio/java-voting-system-project)
 #### 🔸 [Weighted Average System for Grades](https://github.com/mathdio/weighted-average-project)
