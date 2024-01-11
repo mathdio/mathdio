@@ -69,7 +69,9 @@
 <details>
 <summary><h3> 📂 Full-Stack </summary></h3>
 
+#### 🔸 [Store Stock Manager Webpage](https://github.com/mathdio/nunes-sports-project)
 #### 🔸 [Delivery App](https://github.com/mathdio/delivery-app-project)
+
 </details>
 
 <details>
@@ -110,11 +112,11 @@
 <details>
 <summary><h3> 📂 Java (and Spring) </summary></h3>
 
+#### 🔸 [Store Stock Manager Webpage](https://github.com/mathdio/nunes-sports-project)
 #### 🔸 [Farms Manager API](https://github.com/mathdio/farms-manager-api-project)
 #### 🔸 [Museum Finder API](https://github.com/mathdio/museum-finder-api-project)
 #### 🔸 [Voting System](https://github.com/mathdio/java-voting-system-project)
 #### 🔸 [Weighted Average System for Grades](https://github.com/mathdio/weighted-average-project)
-
 
 </details>
 
