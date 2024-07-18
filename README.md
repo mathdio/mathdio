@@ -4,7 +4,7 @@
 
 🎓 Undergraduate in System Analysis and Development, Full-Stack Developer by [Trybe](https://www.betrybe.com).
 
-📚 Currently studying Java and Spring framework.
+📚 Currently studying Kotlin and Android development.
 
 🌍 Based in Fortaleza/CE - Brazil
 
